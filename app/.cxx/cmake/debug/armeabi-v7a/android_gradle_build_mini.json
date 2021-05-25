@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Anhad\\Documents\\Android Studio\\projectm-android\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Anhad\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Anhad\\Documents\\Android Studio\\projectm-android\\app\\.cxx\\cmake\\debug\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Anhad\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Anhad\\Documents\\Android Studio\\projectm-android\\app\\.cxx\\cmake\\debug\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "jniwrapper-Debug-armeabi-v7a": {
+      "artifactName": "jniwrapper",
+      "buildCommandComponents": [
+        "C:\\Users\\Anhad\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\Anhad\\Documents\\Android Studio\\projectm-android\\app\\.cxx\\cmake\\debug\\armeabi-v7a",
+        "jniwrapper"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\Anhad\\Documents\\Android Studio\\projectm-android\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libjniwrapper.so",
+      "runtimeFiles": [
+        "C:\\Users\\Anhad\\Documents\\Android Studio\\projectm-android\\app\\jniLibs\\armeabi-v7a\\libprojectM.so"
+      ]
+    }
+  }
+}

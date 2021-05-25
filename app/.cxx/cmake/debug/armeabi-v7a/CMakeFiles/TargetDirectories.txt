@@ -1,0 +1,3 @@
+C:/Users/Anhad/Documents/Android Studio/projectm-android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/jniwrapper.dir
+C:/Users/Anhad/Documents/Android Studio/projectm-android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Anhad/Documents/Android Studio/projectm-android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

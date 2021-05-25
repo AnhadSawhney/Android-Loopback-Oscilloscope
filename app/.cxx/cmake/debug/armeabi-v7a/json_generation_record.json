@@ -1,0 +1,23 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 22 min SDK version: armeabi-v7a",
+    "file": "C:\\Users\\Anhad\\Documents\\Android Studio\\projectm-android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027C:\\Users\\Anhad\\Documents\\Android Studio\\projectm-android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\android_gradle_build.json\u0027 was up-to-date",
+    "file": "C:\\Users\\Anhad\\Documents\\Android Studio\\projectm-android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "C:\\Users\\Anhad\\Documents\\Android Studio\\projectm-android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a",
+    "diagnosticCode": "UNKNOWN"
+  }
+]

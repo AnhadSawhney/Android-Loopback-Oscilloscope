@@ -1,0 +1,1 @@
+C:\Users\Anhad\Documents\Android Studio\projectm-android\app\build\intermediates\cmake\debug\obj\armeabi-v7a

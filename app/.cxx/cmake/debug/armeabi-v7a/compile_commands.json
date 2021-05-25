@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Anhad/Documents/Android Studio/projectm-android/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\Anhad\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi22 --gcc-toolchain=C:/Users/Anhad/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Anhad/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Djniwrapper_EXPORTS -I\"C:/Users/Anhad/Documents/Android Studio/projectm-android/app/src/main/cpp/../../../jniLibs/include\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\jniwrapper.dir\\jni.cpp.o -c \"C:\\Users\\Anhad\\Documents\\Android Studio\\projectm-android\\app\\src\\main\\cpp\\jni.cpp\"",
+  "file": "C:\\Users\\Anhad\\Documents\\Android Studio\\projectm-android\\app\\src\\main\\cpp\\jni.cpp"
+}
+]

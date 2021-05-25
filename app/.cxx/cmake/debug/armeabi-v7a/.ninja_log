@@ -1,0 +1,17 @@
+# ninja log v5
+1	1429	643512270	CMakeFiles/jniwrapper.dir/jni.cpp.o	1c5e29028cec74a8
+1431	1550	643512270	C:/Users/Anhad/Documents/Android Studio/projectm-android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libjniwrapper.so	3634a3c020a43749
+3	640	643593792	CMakeFiles/jniwrapper.dir/jni.cpp.o	1c5e29028cec74a8
+641	857	643593792	C:/Users/Anhad/Documents/Android Studio/projectm-android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libjniwrapper.so	3634a3c020a43749
+3	437	643594234	CMakeFiles/jniwrapper.dir/jni.cpp.o	1c5e29028cec74a8
+438	521	643594234	C:/Users/Anhad/Documents/Android Studio/projectm-android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libjniwrapper.so	3634a3c020a43749
+2	424	643594293	CMakeFiles/jniwrapper.dir/jni.cpp.o	1c5e29028cec74a8
+424	503	643594293	C:/Users/Anhad/Documents/Android Studio/projectm-android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libjniwrapper.so	3634a3c020a43749
+3	432	643594524	CMakeFiles/jniwrapper.dir/jni.cpp.o	1c5e29028cec74a8
+433	527	643594524	C:/Users/Anhad/Documents/Android Studio/projectm-android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libjniwrapper.so	3634a3c020a43749
+3	470	643603217	CMakeFiles/jniwrapper.dir/jni.cpp.o	1c5e29028cec74a8
+470	568	643603218	C:/Users/Anhad/Documents/Android Studio/projectm-android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libjniwrapper.so	3634a3c020a43749
+3	609	643603240	CMakeFiles/jniwrapper.dir/jni.cpp.o	1c5e29028cec74a8
+609	715	643603240	C:/Users/Anhad/Documents/Android Studio/projectm-android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libjniwrapper.so	3634a3c020a43749
+3	516	643603353	CMakeFiles/jniwrapper.dir/jni.cpp.o	1c5e29028cec74a8
+516	609	643603353	C:/Users/Anhad/Documents/Android Studio/projectm-android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libjniwrapper.so	3634a3c020a43749
